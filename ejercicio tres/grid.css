@@ -1,0 +1,14 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 100px auto auto;
+}
+
+.grid-item{
+    background-color: aqua;
+
+}
+
+a:hover{
+    background-color: red;
+}
+
